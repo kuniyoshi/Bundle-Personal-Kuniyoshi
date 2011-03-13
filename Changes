@@ -1,5 +1,7 @@
 Revision history for Perl extension Bundle::Personal::Kuniyoshi.
 
+0.03  Sun Mar 13 15:59:56 2011
+    - Make text that show how to install.
 0.02  Sun Mar 13 15:56:57 2011
     - Add some modules.
 0.01  Sun Mar 13 13:29:09 2011
