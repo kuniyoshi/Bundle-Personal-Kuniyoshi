@@ -3,7 +3,7 @@ package Bundle::Personal::Kuniyoshi;
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 1;
 
@@ -23,6 +23,42 @@ Readonly
 Time::Piece
 
 DateTime
+
+Path::Class
+
+File::Find::Rule
+
+List::MoreUtils
+
+Config::PIT
+
+Pod::Usage
+
+Business::ISBN
+
+HTML::LinkExtor
+
+HTML::SimpleLinkExtor
+
+HTML::Parser
+
+XML::XPath
+
+JSON
+
+Template
+
+Net::Amazon
+
+Net::Twitter::Lite
+
+MP3::Tag
+
+DBIx::Class
+
+Class::DBI
+
+Mojolicious
 
 =head1 DESCRIPTION
 
