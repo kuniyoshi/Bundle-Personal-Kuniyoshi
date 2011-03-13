@@ -1,5 +1,7 @@
 Revision history for Perl extension Bundle::Personal::Kuniyoshi.
 
+0.04  Sun Mar 13 23:25:57 2011
+    - Fix a miss spelling from Config::PIT to Config::Pit.
 0.03  Sun Mar 13 15:59:56 2011
     - Make text that show how to install.
 0.02  Sun Mar 13 15:56:57 2011
