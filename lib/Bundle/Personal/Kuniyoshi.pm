@@ -18,6 +18,8 @@ cpanm Bundle::Personal::Kuniyoshi
 
 =head1 CONTENTS
 
+YAML
+
 Readonly
 
 Time::Piece
